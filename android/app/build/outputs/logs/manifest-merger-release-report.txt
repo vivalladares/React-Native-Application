@@ -1,0 +1,258 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Acer\Desktop\smartsap\android\app\src\main\AndroidManifest.xml:1:1-27:12
+INJECTED from C:\Users\Acer\Desktop\smartsap\android\app\src\main\AndroidManifest.xml:1:1-27:12
+INJECTED from C:\Users\Acer\Desktop\smartsap\android\app\src\main\AndroidManifest.xml:1:1-27:12
+INJECTED from C:\Users\Acer\Desktop\smartsap\android\app\src\main\AndroidManifest.xml:1:1-27:12
+MERGED from [:react-native-community_async-storage] C:\Users\Acer\Desktop\smartsap\node_modules\@react-native-community\async-storage\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-community_masked-view] C:\Users\Acer\Desktop\smartsap\node_modules\@react-native-community\masked-view\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-picker_picker] C:\Users\Acer\Desktop\smartsap\node_modules\@react-native-picker\picker\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-gesture-handler] C:\Users\Acer\Desktop\smartsap\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-image-picker] C:\Users\Acer\Desktop\smartsap\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-23:12
+MERGED from [:react-native-reanimated] C:\Users\Acer\Desktop\smartsap\node_modules\react-native-reanimated\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-safe-area-context] C:\Users\Acer\Desktop\smartsap\node_modules\react-native-safe-area-context\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-screens] C:\Users\Acer\Desktop\smartsap\node_modules\react-native-screens\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-vector-icons] C:\Users\Acer\Desktop\smartsap\node_modules\react-native-vector-icons\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.63.4] C:\Users\Acer\.gradle\caches\transforms-3\a18576c42014a4ceaeb7547bac4d1192\transformed\jetified-react-native-0.63.4\AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Acer\.gradle\caches\transforms-3\7992b4dbe3f2965c95f190e93d6bdc36\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [org.webkit:android-jsc:r245459] C:\Users\Acer\.gradle\caches\transforms-3\21288285067350c67a3183cc5b3f45e5\transformed\android-jsc-r245459\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\Acer\.gradle\caches\transforms-3\19dcca9b9cda0a6a74ade4b2d8160c82\transformed\material-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Acer\.gradle\caches\transforms-3\87cb6aad6bbb9610fc1ecd8d64eb3f2e\transformed\appcompat-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] C:\Users\Acer\.gradle\caches\transforms-3\85d68707915bb9e9e7def66f519e4e8e\transformed\fresco-2.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] C:\Users\Acer\.gradle\caches\transforms-3\6bdb53b94b0b659f784b2248ee9124a9\transformed\imagepipeline-okhttp3-2.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] C:\Users\Acer\.gradle\caches\transforms-3\af3d70642b8345d18b45b498936a50f5\transformed\drawee-2.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] C:\Users\Acer\.gradle\caches\transforms-3\b5d5239233e19e020f0bcbcd2a5cc37e\transformed\nativeimagefilters-2.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] C:\Users\Acer\.gradle\caches\transforms-3\d76d4a79469aa842903680463154bbcf\transformed\imagepipeline-2.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] C:\Users\Acer\.gradle\caches\transforms-3\41c2a6de6cb56a77dabe6cda9c36f2f3\transformed\nativeimagetranscoder-2.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] C:\Users\Acer\.gradle\caches\transforms-3\3cf21691f914859d3176f2b0eb40155a\transformed\imagepipeline-base-2.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.9.0] C:\Users\Acer\.gradle\caches\transforms-3\dbdf4f3c934835924a9955c82e5f8464\transformed\soloader-0.9.0\AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\Acer\.gradle\caches\transforms-3\3e5f3427f7d79c11503b13f0da2c9a53\transformed\appcompat-resources-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Acer\.gradle\caches\transforms-3\896d771864eaece051969257240183d9\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Acer\.gradle\caches\transforms-3\b6527ba03a5941089cafac047803de83\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Acer\.gradle\caches\transforms-3\6e821244ff1ccbee69eef99291dc4562\transformed\viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.2.1] C:\Users\Acer\.gradle\caches\transforms-3\8509a1d4221c64abdbecb4cd9bfa0549\transformed\fragment-1.2.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Acer\.gradle\caches\transforms-3\b98e29a84068c671eefd5b2844ce1c34\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Acer\.gradle\caches\transforms-3\27d5e8646c1194bcde8bf61c74855012\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Acer\.gradle\caches\transforms-3\6946735960a32dbeecc5836d58f17a31\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Acer\.gradle\caches\transforms-3\017c0e756ca38a73a3d7c1c0ea9841d9\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\Acer\.gradle\caches\transforms-3\a2dfc432e5768ebf9698279c10a4658b\transformed\activity-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Acer\.gradle\caches\transforms-3\2304454685b451ac11cea49754fd2b65\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Acer\.gradle\caches\transforms-3\039472ae1d349311660a8d5dea2f24ea\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Acer\.gradle\caches\transforms-3\bb2ab1657193c325936df940dfaeae5e\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Acer\.gradle\caches\transforms-3\de03da1abb54db88a4d7e86e9bcd9036\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.3.1] C:\Users\Acer\.gradle\caches\transforms-3\91b314195ac86b20656c2f8098738993\transformed\core-1.3.1\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.1] C:\Users\Acer\.gradle\caches\transforms-3\f9553736ed93748c8eea41973ba1860e\transformed\exifinterface-1.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Acer\.gradle\caches\transforms-3\598b659f9dbca0a033dac7ddcb4a4370\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Acer\.gradle\caches\transforms-3\705f4130b7faa4dc4cbbcc57a35ac9d4\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\Acer\.gradle\caches\transforms-3\d287d795504bbe15323c57a077b14806\transformed\lifecycle-viewmodel-savedstate-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\Acer\.gradle\caches\transforms-3\4c77d968ecf4dedca4ceb319fd48be1b\transformed\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Acer\.gradle\caches\transforms-3\b5d722ad0e59e02f107a4eb44187edc8\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Acer\.gradle\caches\transforms-3\fae7db3a92239b66477f901fcb15b84d\transformed\lifecycle-runtime-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Acer\.gradle\caches\transforms-3\2ae2223da9e3e6de6e3d711b3d40728f\transformed\savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Acer\.gradle\caches\transforms-3\9ce2e0a3c036933248600bdae254f444\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\Acer\.gradle\caches\transforms-3\4a7f69280ba2195fd4631b40e1cb73e4\transformed\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Acer\.gradle\caches\transforms-3\e856841aebb2040c554e7342219b24a5\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] C:\Users\Acer\.gradle\caches\transforms-3\7231f6f54b2d3ddb30e01a490249f06e\transformed\jetified-fbcore-2.0.0\AndroidManifest.xml:2:1-9:12
+INJECTED from C:\Users\Acer\Desktop\smartsap\android\app\src\main\AndroidManifest.xml:1:1-27:12
+INJECTED from C:\Users\Acer\Desktop\smartsap\android\app\src\main\AndroidManifest.xml:1:1-27:12
+INJECTED from C:\Users\Acer\Desktop\smartsap\android\app\src\main\AndroidManifest.xml:1:1-27:12
+	package
+		ADDED from C:\Users\Acer\Desktop\smartsap\android\app\src\main\AndroidManifest.xml:2:3-25
+		INJECTED from C:\Users\Acer\Desktop\smartsap\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Acer\Desktop\smartsap\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Acer\Desktop\smartsap\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Acer\Desktop\smartsap\android\app\src\main\AndroidManifest.xml:1:1-27:12
+		INJECTED from C:\Users\Acer\Desktop\smartsap\android\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Acer\Desktop\smartsap\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Acer\Desktop\smartsap\android\app\src\main\AndroidManifest.xml:1:1-27:12
+		INJECTED from C:\Users\Acer\Desktop\smartsap\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Acer\Desktop\smartsap\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Acer\Desktop\smartsap\android\app\src\main\AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from C:\Users\Acer\Desktop\smartsap\android\app\src\main\AndroidManifest.xml:4:22-64
+application
+ADDED from C:\Users\Acer\Desktop\smartsap\android\app\src\main\AndroidManifest.xml:6:5-25:19
+MERGED from [:react-native-image-picker] C:\Users\Acer\Desktop\smartsap\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\release\AndroidManifest.xml:11:5-21:19
+MERGED from [:react-native-image-picker] C:\Users\Acer\Desktop\smartsap\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\release\AndroidManifest.xml:11:5-21:19
+MERGED from [com.facebook.react:react-native:0.63.4] C:\Users\Acer\.gradle\caches\transforms-3\a18576c42014a4ceaeb7547bac4d1192\transformed\jetified-react-native-0.63.4\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.63.4] C:\Users\Acer\.gradle\caches\transforms-3\a18576c42014a4ceaeb7547bac4d1192\transformed\jetified-react-native-0.63.4\AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\Acer\.gradle\caches\transforms-3\19dcca9b9cda0a6a74ade4b2d8160c82\transformed\material-1.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\Acer\.gradle\caches\transforms-3\19dcca9b9cda0a6a74ade4b2d8160c82\transformed\material-1.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.facebook.soloader:soloader:0.9.0] C:\Users\Acer\.gradle\caches\transforms-3\dbdf4f3c934835924a9955c82e5f8464\transformed\soloader-0.9.0\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.9.0] C:\Users\Acer\.gradle\caches\transforms-3\dbdf4f3c934835924a9955c82e5f8464\transformed\soloader-0.9.0\AndroidManifest.xml:11:5-20
+MERGED from [androidx.core:core:1.3.1] C:\Users\Acer\.gradle\caches\transforms-3\91b314195ac86b20656c2f8098738993\transformed\core-1.3.1\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.1] C:\Users\Acer\.gradle\caches\transforms-3\91b314195ac86b20656c2f8098738993\transformed\core-1.3.1\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Acer\.gradle\caches\transforms-3\598b659f9dbca0a033dac7ddcb4a4370\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Acer\.gradle\caches\transforms-3\598b659f9dbca0a033dac7ddcb4a4370\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.1] C:\Users\Acer\.gradle\caches\transforms-3\91b314195ac86b20656c2f8098738993\transformed\core-1.3.1\AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from C:\Users\Acer\Desktop\smartsap\android\app\src\main\AndroidManifest.xml:8:7-39
+	android:roundIcon
+		ADDED from C:\Users\Acer\Desktop\smartsap\android\app\src\main\AndroidManifest.xml:10:7-52
+	android:icon
+		ADDED from C:\Users\Acer\Desktop\smartsap\android\app\src\main\AndroidManifest.xml:9:7-41
+	android:allowBackup
+		ADDED from C:\Users\Acer\Desktop\smartsap\android\app\src\main\AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from C:\Users\Acer\Desktop\smartsap\android\app\src\main\AndroidManifest.xml:12:7-38
+	android:name
+		ADDED from C:\Users\Acer\Desktop\smartsap\android\app\src\main\AndroidManifest.xml:7:7-38
+activity#com.smartsap.MainActivity
+ADDED from C:\Users\Acer\Desktop\smartsap\android\app\src\main\AndroidManifest.xml:13:7-23:18
+	android:label
+		ADDED from C:\Users\Acer\Desktop\smartsap\android\app\src\main\AndroidManifest.xml:15:9-41
+	android:launchMode
+		ADDED from C:\Users\Acer\Desktop\smartsap\android\app\src\main\AndroidManifest.xml:17:9-40
+	android:windowSoftInputMode
+		ADDED from C:\Users\Acer\Desktop\smartsap\android\app\src\main\AndroidManifest.xml:18:9-51
+	android:configChanges
+		ADDED from C:\Users\Acer\Desktop\smartsap\android\app\src\main\AndroidManifest.xml:16:9-86
+	android:name
+		ADDED from C:\Users\Acer\Desktop\smartsap\android\app\src\main\AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Acer\Desktop\smartsap\android\app\src\main\AndroidManifest.xml:19:9-22:25
+action#android.intent.action.MAIN
+ADDED from C:\Users\Acer\Desktop\smartsap\android\app\src\main\AndroidManifest.xml:20:13-65
+	android:name
+		ADDED from C:\Users\Acer\Desktop\smartsap\android\app\src\main\AndroidManifest.xml:20:21-62
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Acer\Desktop\smartsap\android\app\src\main\AndroidManifest.xml:21:13-73
+	android:name
+		ADDED from C:\Users\Acer\Desktop\smartsap\android\app\src\main\AndroidManifest.xml:21:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from C:\Users\Acer\Desktop\smartsap\android\app\src\main\AndroidManifest.xml:24:7-84
+	android:name
+		ADDED from C:\Users\Acer\Desktop\smartsap\android\app\src\main\AndroidManifest.xml:24:17-81
+uses-sdk
+INJECTED from C:\Users\Acer\Desktop\smartsap\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Acer\Desktop\smartsap\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Acer\Desktop\smartsap\android\app\src\main\AndroidManifest.xml
+MERGED from [:react-native-community_async-storage] C:\Users\Acer\Desktop\smartsap\node_modules\@react-native-community\async-storage\android\build\intermediates\library_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_async-storage] C:\Users\Acer\Desktop\smartsap\node_modules\@react-native-community\async-storage\android\build\intermediates\library_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_masked-view] C:\Users\Acer\Desktop\smartsap\node_modules\@react-native-community\masked-view\android\build\intermediates\library_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_masked-view] C:\Users\Acer\Desktop\smartsap\node_modules\@react-native-community\masked-view\android\build\intermediates\library_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-picker_picker] C:\Users\Acer\Desktop\smartsap\node_modules\@react-native-picker\picker\android\build\intermediates\library_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-picker_picker] C:\Users\Acer\Desktop\smartsap\node_modules\@react-native-picker\picker\android\build\intermediates\library_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-gesture-handler] C:\Users\Acer\Desktop\smartsap\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] C:\Users\Acer\Desktop\smartsap\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-image-picker] C:\Users\Acer\Desktop\smartsap\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-image-picker] C:\Users\Acer\Desktop\smartsap\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] C:\Users\Acer\Desktop\smartsap\node_modules\react-native-reanimated\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] C:\Users\Acer\Desktop\smartsap\node_modules\react-native-reanimated\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-safe-area-context] C:\Users\Acer\Desktop\smartsap\node_modules\react-native-safe-area-context\android\build\intermediates\library_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-safe-area-context] C:\Users\Acer\Desktop\smartsap\node_modules\react-native-safe-area-context\android\build\intermediates\library_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-screens] C:\Users\Acer\Desktop\smartsap\node_modules\react-native-screens\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-screens] C:\Users\Acer\Desktop\smartsap\node_modules\react-native-screens\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] C:\Users\Acer\Desktop\smartsap\node_modules\react-native-vector-icons\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] C:\Users\Acer\Desktop\smartsap\node_modules\react-native-vector-icons\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.63.4] C:\Users\Acer\.gradle\caches\transforms-3\a18576c42014a4ceaeb7547bac4d1192\transformed\jetified-react-native-0.63.4\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.63.4] C:\Users\Acer\.gradle\caches\transforms-3\a18576c42014a4ceaeb7547bac4d1192\transformed\jetified-react-native-0.63.4\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Acer\.gradle\caches\transforms-3\7992b4dbe3f2965c95f190e93d6bdc36\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Acer\.gradle\caches\transforms-3\7992b4dbe3f2965c95f190e93d6bdc36\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [org.webkit:android-jsc:r245459] C:\Users\Acer\.gradle\caches\transforms-3\21288285067350c67a3183cc5b3f45e5\transformed\android-jsc-r245459\AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] C:\Users\Acer\.gradle\caches\transforms-3\21288285067350c67a3183cc5b3f45e5\transformed\android-jsc-r245459\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\Acer\.gradle\caches\transforms-3\19dcca9b9cda0a6a74ade4b2d8160c82\transformed\material-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\Acer\.gradle\caches\transforms-3\19dcca9b9cda0a6a74ade4b2d8160c82\transformed\material-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Acer\.gradle\caches\transforms-3\87cb6aad6bbb9610fc1ecd8d64eb3f2e\transformed\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Acer\.gradle\caches\transforms-3\87cb6aad6bbb9610fc1ecd8d64eb3f2e\transformed\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] C:\Users\Acer\.gradle\caches\transforms-3\85d68707915bb9e9e7def66f519e4e8e\transformed\fresco-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] C:\Users\Acer\.gradle\caches\transforms-3\85d68707915bb9e9e7def66f519e4e8e\transformed\fresco-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] C:\Users\Acer\.gradle\caches\transforms-3\6bdb53b94b0b659f784b2248ee9124a9\transformed\imagepipeline-okhttp3-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] C:\Users\Acer\.gradle\caches\transforms-3\6bdb53b94b0b659f784b2248ee9124a9\transformed\imagepipeline-okhttp3-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] C:\Users\Acer\.gradle\caches\transforms-3\af3d70642b8345d18b45b498936a50f5\transformed\drawee-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] C:\Users\Acer\.gradle\caches\transforms-3\af3d70642b8345d18b45b498936a50f5\transformed\drawee-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] C:\Users\Acer\.gradle\caches\transforms-3\b5d5239233e19e020f0bcbcd2a5cc37e\transformed\nativeimagefilters-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] C:\Users\Acer\.gradle\caches\transforms-3\b5d5239233e19e020f0bcbcd2a5cc37e\transformed\nativeimagefilters-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] C:\Users\Acer\.gradle\caches\transforms-3\d76d4a79469aa842903680463154bbcf\transformed\imagepipeline-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] C:\Users\Acer\.gradle\caches\transforms-3\d76d4a79469aa842903680463154bbcf\transformed\imagepipeline-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] C:\Users\Acer\.gradle\caches\transforms-3\41c2a6de6cb56a77dabe6cda9c36f2f3\transformed\nativeimagetranscoder-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] C:\Users\Acer\.gradle\caches\transforms-3\41c2a6de6cb56a77dabe6cda9c36f2f3\transformed\nativeimagetranscoder-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] C:\Users\Acer\.gradle\caches\transforms-3\3cf21691f914859d3176f2b0eb40155a\transformed\imagepipeline-base-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] C:\Users\Acer\.gradle\caches\transforms-3\3cf21691f914859d3176f2b0eb40155a\transformed\imagepipeline-base-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.9.0] C:\Users\Acer\.gradle\caches\transforms-3\dbdf4f3c934835924a9955c82e5f8464\transformed\soloader-0.9.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.9.0] C:\Users\Acer\.gradle\caches\transforms-3\dbdf4f3c934835924a9955c82e5f8464\transformed\soloader-0.9.0\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\Acer\.gradle\caches\transforms-3\3e5f3427f7d79c11503b13f0da2c9a53\transformed\appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\Acer\.gradle\caches\transforms-3\3e5f3427f7d79c11503b13f0da2c9a53\transformed\appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Acer\.gradle\caches\transforms-3\896d771864eaece051969257240183d9\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Acer\.gradle\caches\transforms-3\896d771864eaece051969257240183d9\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Acer\.gradle\caches\transforms-3\b6527ba03a5941089cafac047803de83\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Acer\.gradle\caches\transforms-3\b6527ba03a5941089cafac047803de83\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Acer\.gradle\caches\transforms-3\6e821244ff1ccbee69eef99291dc4562\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Acer\.gradle\caches\transforms-3\6e821244ff1ccbee69eef99291dc4562\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.1] C:\Users\Acer\.gradle\caches\transforms-3\8509a1d4221c64abdbecb4cd9bfa0549\transformed\fragment-1.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.1] C:\Users\Acer\.gradle\caches\transforms-3\8509a1d4221c64abdbecb4cd9bfa0549\transformed\fragment-1.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Acer\.gradle\caches\transforms-3\b98e29a84068c671eefd5b2844ce1c34\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Acer\.gradle\caches\transforms-3\b98e29a84068c671eefd5b2844ce1c34\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Acer\.gradle\caches\transforms-3\27d5e8646c1194bcde8bf61c74855012\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Acer\.gradle\caches\transforms-3\27d5e8646c1194bcde8bf61c74855012\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Acer\.gradle\caches\transforms-3\6946735960a32dbeecc5836d58f17a31\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Acer\.gradle\caches\transforms-3\6946735960a32dbeecc5836d58f17a31\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Acer\.gradle\caches\transforms-3\017c0e756ca38a73a3d7c1c0ea9841d9\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Acer\.gradle\caches\transforms-3\017c0e756ca38a73a3d7c1c0ea9841d9\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\Acer\.gradle\caches\transforms-3\a2dfc432e5768ebf9698279c10a4658b\transformed\activity-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\Acer\.gradle\caches\transforms-3\a2dfc432e5768ebf9698279c10a4658b\transformed\activity-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Acer\.gradle\caches\transforms-3\2304454685b451ac11cea49754fd2b65\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Acer\.gradle\caches\transforms-3\2304454685b451ac11cea49754fd2b65\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Acer\.gradle\caches\transforms-3\039472ae1d349311660a8d5dea2f24ea\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Acer\.gradle\caches\transforms-3\039472ae1d349311660a8d5dea2f24ea\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Acer\.gradle\caches\transforms-3\bb2ab1657193c325936df940dfaeae5e\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Acer\.gradle\caches\transforms-3\bb2ab1657193c325936df940dfaeae5e\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Acer\.gradle\caches\transforms-3\de03da1abb54db88a4d7e86e9bcd9036\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Acer\.gradle\caches\transforms-3\de03da1abb54db88a4d7e86e9bcd9036\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.1] C:\Users\Acer\.gradle\caches\transforms-3\91b314195ac86b20656c2f8098738993\transformed\core-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.1] C:\Users\Acer\.gradle\caches\transforms-3\91b314195ac86b20656c2f8098738993\transformed\core-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.1] C:\Users\Acer\.gradle\caches\transforms-3\f9553736ed93748c8eea41973ba1860e\transformed\exifinterface-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.1] C:\Users\Acer\.gradle\caches\transforms-3\f9553736ed93748c8eea41973ba1860e\transformed\exifinterface-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Acer\.gradle\caches\transforms-3\598b659f9dbca0a033dac7ddcb4a4370\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Acer\.gradle\caches\transforms-3\598b659f9dbca0a033dac7ddcb4a4370\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Acer\.gradle\caches\transforms-3\705f4130b7faa4dc4cbbcc57a35ac9d4\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Acer\.gradle\caches\transforms-3\705f4130b7faa4dc4cbbcc57a35ac9d4\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\Acer\.gradle\caches\transforms-3\d287d795504bbe15323c57a077b14806\transformed\lifecycle-viewmodel-savedstate-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\Acer\.gradle\caches\transforms-3\d287d795504bbe15323c57a077b14806\transformed\lifecycle-viewmodel-savedstate-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\Acer\.gradle\caches\transforms-3\4c77d968ecf4dedca4ceb319fd48be1b\transformed\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\Acer\.gradle\caches\transforms-3\4c77d968ecf4dedca4ceb319fd48be1b\transformed\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Acer\.gradle\caches\transforms-3\b5d722ad0e59e02f107a4eb44187edc8\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Acer\.gradle\caches\transforms-3\b5d722ad0e59e02f107a4eb44187edc8\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Acer\.gradle\caches\transforms-3\fae7db3a92239b66477f901fcb15b84d\transformed\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Acer\.gradle\caches\transforms-3\fae7db3a92239b66477f901fcb15b84d\transformed\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Acer\.gradle\caches\transforms-3\2ae2223da9e3e6de6e3d711b3d40728f\transformed\savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Acer\.gradle\caches\transforms-3\2ae2223da9e3e6de6e3d711b3d40728f\transformed\savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Acer\.gradle\caches\transforms-3\9ce2e0a3c036933248600bdae254f444\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Acer\.gradle\caches\transforms-3\9ce2e0a3c036933248600bdae254f444\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\Acer\.gradle\caches\transforms-3\4a7f69280ba2195fd4631b40e1cb73e4\transformed\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\Acer\.gradle\caches\transforms-3\4a7f69280ba2195fd4631b40e1cb73e4\transformed\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Acer\.gradle\caches\transforms-3\e856841aebb2040c554e7342219b24a5\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Acer\.gradle\caches\transforms-3\e856841aebb2040c554e7342219b24a5\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] C:\Users\Acer\.gradle\caches\transforms-3\7231f6f54b2d3ddb30e01a490249f06e\transformed\jetified-fbcore-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] C:\Users\Acer\.gradle\caches\transforms-3\7231f6f54b2d3ddb30e01a490249f06e\transformed\jetified-fbcore-2.0.0\AndroidManifest.xml:5:5-7:41
+INJECTED from C:\Users\Acer\Desktop\smartsap\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Acer\Desktop\smartsap\android\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Acer\Desktop\smartsap\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Acer\Desktop\smartsap\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Acer\Desktop\smartsap\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Acer\Desktop\smartsap\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Acer\Desktop\smartsap\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Acer\Desktop\smartsap\android\app\src\main\AndroidManifest.xml
+provider#com.imagepicker.ImagePickerProvider
+ADDED from [:react-native-image-picker] C:\Users\Acer\Desktop\smartsap\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\release\AndroidManifest.xml:12:9-20:20
+	android:grantUriPermissions
+		ADDED from [:react-native-image-picker] C:\Users\Acer\Desktop\smartsap\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\release\AndroidManifest.xml:16:13-47
+	android:authorities
+		ADDED from [:react-native-image-picker] C:\Users\Acer\Desktop\smartsap\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\release\AndroidManifest.xml:14:13-71
+	android:exported
+		ADDED from [:react-native-image-picker] C:\Users\Acer\Desktop\smartsap\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\release\AndroidManifest.xml:15:13-37
+	android:name
+		ADDED from [:react-native-image-picker] C:\Users\Acer\Desktop\smartsap\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\release\AndroidManifest.xml:13:13-63
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:react-native-image-picker] C:\Users\Acer\Desktop\smartsap\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\release\AndroidManifest.xml:17:13-19:70
+	android:resource
+		ADDED from [:react-native-image-picker] C:\Users\Acer\Desktop\smartsap\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\release\AndroidManifest.xml:19:17-67
+	android:name
+		ADDED from [:react-native-image-picker] C:\Users\Acer\Desktop\smartsap\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\release\AndroidManifest.xml:18:17-67
